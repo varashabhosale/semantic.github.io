@@ -1,0 +1,36 @@
+*{
+ 
+    
+    margin: 0;
+    padding : 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+
+
+
+
+.box{
+    /* border-width: 20px;
+    border-style: solid;
+    border-color: blue;*/
+    height: 70vh;
+    width: 70w;
+    border: 5px solid blue;
+    /*margin: 50px; */
+
+    /* background-color: aliceblue;
+    background-image: url("C:\Users\Varsha\Desktop\images\OIP.jfif");
+    background-size: contain;
+    background-repeat: no repeat;C:\User
+    background-size: cover;
+    background-position: center;
+    background-attchmenat: scroll;*/
+
+
+
+    background: violet url("C:\Users\Varsha\Desktop\images\OIP.jfif") no-repeat center;
+    background-size: cover;
+
+}
